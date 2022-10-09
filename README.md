@@ -9,12 +9,47 @@
 
 ---
 
+## Tools and Technologies:
+
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C&svgfill=8ed5fa">
+</a>
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Cplusplus&svgfill=8ed5fa">
+</a>
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=8ed5fa">
+</a>
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=8ed5fa">
+</a>
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=8ed5fa">
+</a>
+  
+</p>
+
+---
+
 ## Contact
 
 <a href="https://github.com/titansarus"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
 <a href="mailto:amirmahdi.namjoo1@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="emai2l"/></a>
 <a href="mailto:amirmahdi.namjoo@sharif.edu"><img src="https://img.icons8.com/stickers/100/000000/education.png" alt="university email"/></a>
 <a href="https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+
+
 
 
 
