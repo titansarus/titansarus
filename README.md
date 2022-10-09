@@ -13,7 +13,7 @@
 
 <p align="left">  
   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C&svgfill=8ed5fa&text=False">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C&svgfill=00427E&text=false">
 </a>
 </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
